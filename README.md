@@ -8,5 +8,5 @@ A handy little window to add your most used scene file in there and load them wh
 ![SceneFileManagerImage](Img/SceneFileManager.png)
 ## Batch Renamer
 An editor window inspired by c4d rename tool to batch rename files.
-https://github.com/Erfan-Sheikh/Unity_EditorUtils/assets/28543853/b25717ee-ae03-45e7-83eb-d82695fa80cf
+https://github-production-user-asset-6210df.s3.amazonaws.com/28543853/270393261-b25717ee-ae03-45e7-83eb-d82695fa80cf.mp4
 
