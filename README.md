@@ -15,3 +15,10 @@ https://github.com/Erfan-Sheikh/Unity_EditorUtils/assets/28543853/72c327cd-33df-
 
 
 
+## Align Transform
+Align the transform of the selected objects with the last selected object.
+
+
+
+https://github.com/Erfan-Sheikh/Unity_EditorUtils/assets/28543853/22734134-b3f3-4a60-a9cd-70177618a843
+
