@@ -9,5 +9,5 @@ A handy little window to add your most used scene file in there and load them wh
 ## Batch Renamer
 An editor window inspired by c4d rename tool to batch rename files.
 
-https://github-production-user-asset-6210df.s3.amazonaws.com/28543853/270393261-b25717ee-ae03-45e7-83eb-d82695fa80cf.mp4
+[https://github-production-user-asset-6210df.s3.amazonaws.com/28543853/270393261-b25717ee-ae03-45e7-83eb-d82695fa80cf.mp4](https://github-production-user-asset-6210df.s3.amazonaws.com/28543853/270393261-b25717ee-ae03-45e7-83eb-d82695fa80cf.mp4)https://github-production-user-asset-6210df.s3.amazonaws.com/28543853/270393261-b25717ee-ae03-45e7-83eb-d82695fa80cf.mp4
 
