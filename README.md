@@ -1,6 +1,6 @@
 # Some Unity Editor Tools That i Use on daily Basis
 # Installation
-For now Just Download the project and add the folders to your unity project.
+Downlaod the latest Unitypackage from the [Releases](https://github.com/Erfan-Sheikh/Unity_EditorUtils/releases) section.  
 
 # Package Content
 ## Scene File Manager
